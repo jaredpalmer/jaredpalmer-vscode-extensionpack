@@ -1,0 +1,64 @@
+{
+  "name": "jaredpalmer-vscode-extensionpack",
+  "version": "0.1.0",
+  "publisher": "jaredpalmer",
+  "displayName": "Jared Palmer's VS Code Extension Pack",
+  "description": "A collection of my VS Code extensions for JS, TS, React, Java, Python, Kotlin, etc.",
+  "license": "SEE LICENSE IN LICENSE",
+  "galleryBanner": {
+    "color": "#000",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "repository": {
+    "url": "https://github.com/jaredpalmer/jaredpalmer-vscode-extensionpack"
+  },
+  "homepage": "https://github.com/jaredpalmer/jaredpalmer-vscode-extensionpack",
+  "bugs": {
+    "url": "https://github.com/jaredpalmer/jaredpalmer-vscode-extensionpack/issues"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "typescript",
+    "typescript extension collection"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "engines": {
+    "vscode": "^1.26.0"
+  },
+  "extensionPack": [
+    "alefragnani.Bookmarks",
+    "anseki.vscode-color",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "cssho.vscode-svgviewer",
+    "donjayamanne.githistory",
+    "dotjoshjohnson.xml",
+    "eamodio.gitlens",
+    "eg2.tslint",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "freebroccolo.reasonml",
+    "github.vscode-pull-request-github",
+    "grapecity.gc-excelviewer",
+    "kumar-harsh.graphql-for-vscode",
+    "mathiasfrohlich.kotlin",
+    "ms-python.python",
+    "ms-vsliveshare.vsliveshare",
+    "msjsdiag.debugger-for-chrome",
+    "octref.vetur",
+    "peterjausovec.vscode-docker",
+    "rafamel.subtle-brackets",
+    "redhat.java",
+    "robinbentley.sass-indented",
+    "sintrumit.theme-oceanic-next-italic",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "visualstudioexptteam.vscodeintellicode",
+    "vscjava.vscode-java-debug",
+    "wmaurer.vscode-jumpy",
+    "zignd.html-css-class-completion"
+  ]
+}
