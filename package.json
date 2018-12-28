@@ -1,6 +1,6 @@
 {
   "name": "jaredpalmer-vscode-extensionpack",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "jaredpalmer",
   "displayName": "Jared Palmer's VS Code Extension Pack",
   "description": "A collection of my VS Code extensions for JS, TS, React, Java, Python, Kotlin, etc.",
